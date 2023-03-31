@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FormPage</string>
+    <string name="usn">USN Number: </string>
+    <string name="name">Name :</string>
+    <string name="dept">Dept :</string>
+    <string name="submit">Submit</string>
+    <string name="New">New Text</string>
+
+</resources>

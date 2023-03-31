@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FormApplication</string>
+    <string name="title">FORM APPLICATION</string>
+    <string name="usn">User Number:</string>
+    <string name="name">Name:</string>
+    <string name="dept">Department:</string>
+    <string name="submit">SUBMIT:</string>
+    <string name="New">New Text</string>
+
+
+
+</resources>
